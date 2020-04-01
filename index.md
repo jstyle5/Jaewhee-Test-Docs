@@ -9,7 +9,7 @@ permalink: /
 # Introduction
 {: .fs-9 }
 
-This is a free instant-messaging application for smartphones, allowing them to send and receive free texts as well as photos, videos, voice messages, location, contact information, and URL links. Both 1:1 or group chats are available over WiFi, 3G or LTE. To avoid spam, the users must have a mobile number to install the application, not virtual numbers or internet phone numbers, etc. 
+The "KakaoTalk" is a free instant-messaging application for smartphones, allowing them to send and receive free texts as well as photos, videos, voice messages, location, contact information, and URL links. Both 1:1 or group chats are available over WiFi, 3G or LTE. To avoid spam, the users must have a mobile number to install the application, not virtual numbers or internet phone numbers, etc. 
 For android users only. Only works in mobile version.
 
   ![KakaoTalk Logo](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/kakaotalk-logo-introduction.png?raw=true "Let's KakaoTalk!")
