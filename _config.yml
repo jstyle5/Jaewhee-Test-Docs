@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jaewhee's Test Docs
+title: Kakao Talk English Version Guide
 description: Testing Jekyll Themes for User Docs
-baseurl: "/Jaewhee-Test-Docs" # the subpath of your site, e.g. /blog
+baseurl: "/Kakao-Talk-English-Version-Guide" # the subpath of your site, e.g. /blog
 url: "https://jstyle5.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
