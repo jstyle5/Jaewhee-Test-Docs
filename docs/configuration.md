@@ -8,7 +8,7 @@ nav_order: 2
 {: .no_toc }
 
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
+DRAFT Profile
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -18,6 +18,18 @@ Just the Docs has some specific configuration parameters that can be defined in 
 {:toc}
 
 ---
+
+What is a profile?
+
+
+How to change status message
+Go to More -> My Profile to change status message.
+How to change cover photo on profile
+From profile, tap Edit Profile and select the camera icon on the bottom-right corner of the cover photo.
+Note. You can choose an image from your device album or set it as a default image.
+How to remove updates from Feed
+Tap the three-dotted icon and delete each update.
+If you want to set it as private, select Only Me and nobody else will be able to see that update.
 
 
 View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
