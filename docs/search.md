@@ -25,6 +25,16 @@ Just the Docs uses [lunr.js](http://lunrjs.com) to add a client-side search inte
 
 ### Generate search index
 
+Android - Android is a mobile operating system based on a modified version of the Linux kernel and other open source software, designed primarily for touchscreen mobile devices.
+Allowance - limitation to use 3G/LTE. Telecom companies allow their users to use data with a limitation every month depending on their data plan. Once the users use up their allowance, VolP traffic is blocked.
+Calendar - Manage all your important events with a kakaotalk account: easy to edit, no need to separate account, reminders
+Chats - allow to chat with your KakaoTalk contacts.
+Filter - During Voice / Video call, users can change their voice or displayed screen by applying filters offered by KakaoTalk.
+Firewall - network security device that monitors whether to allow or block specific traffic.
+Friends – view a list of contacts in Kakaotalk; add friends to the list; search within your list of friends.
+More - view your profile, play with several settings, view a list of keyboard shortcuts, and more.
+mVoIP - extension of mobility to a Voice over IP network.
+
 Before you can use search, you must initialize the feature by running this `rake` command that comes with `just-the-docs`:
 
 ```bash
