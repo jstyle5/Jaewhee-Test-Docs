@@ -9,7 +9,9 @@ permalink: /
 # Introduction
 {: .fs-9 }
 
-The purpose of this~~~~~~~~~~~~~~~~
+This is a free instant-messaging application for smartphones, allowing them to send and receive free texts as well as photos, videos, voice messages, location, contact information, and URL links. Both 1:1 or group chats are available over WiFi, 3G or LTE. To avoid spam, the users must have a mobile number to install the application, not virtual numbers or internet phone numbers, etc. 
+For android users only. Only works in mobile version.
+
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
