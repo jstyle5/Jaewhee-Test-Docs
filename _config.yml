@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Kakao Talk English Version Guide
-description: Testing Jekyll Themes for User Docs
+description: This is a Kakao Talk English Version Guide
 baseurl: "/Kakao-Talk-English-Version-Guide" # the subpath of your site, e.g. /blog
 url: "https://jstyle5.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
