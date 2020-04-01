@@ -7,8 +7,7 @@ nav_order: 3
 # Voice Call / Video Call
 {: .no_toc }
 
-
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
+DRAFT Voice Call / Video Call
 {: .fs-6 .fw-300 }
 
 ## Table of contents
@@ -18,6 +17,31 @@ Just the Docs has some specific configuration parameters that can be defined in 
 {:toc}
 
 ---
+
+What is the Free call feature?
+Free call is a feature allowing you to make a Voice / Video call for free with your KakaoTalk friends.
+All calls on KakaoTalk are free when made using Wi-Fi.
+Group call is a mVoIP-based feature that enables you to talk with your friends in a group of 3 to 5 people in a chatroom.
+Note: This feature is available for KakaoTalk version 6.1.5 or above on Android.
+Note: If you need to use data to make the call, certain charges may apply according to your data plan/mobile carrier.
+How to start a Free call with a friend?
+To pull up your friend’s KakaoTalk profile
+1) Locate the person on your Friends list and tap to open their profile.
+2) At the bottom of the profile, tap the Free Call button.
+3) Tap Voice or Video Call in order to start the call.
+
+
+From inside a chatroom
+1) In a 1:1 chatroom, tap the + menu.
+2) Tap the Voice or Video Call button to start a call.
+How to use a voice filter
+Once your call is connected, you will see the ‘Voice Filters’ button on the screen.
+You can then select an option to speak to your friend in either Tom or Ben’s voice.
+How to apply filters during a Video call
+Tap the ‘Video Filters’ button in the menu after connecting to a video call.
+Tap your favorite filters and it will appear on your friend’s screen.
+How to change which person is displayed in the larger/smaller window during a Video call
+If you double tap the small screen, you’ll be able to switch which user is displayed in the larger screen and vice versa.
 
 
 View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
