@@ -12,7 +12,7 @@ The purpose of this document is to provide useful tips to users getting started 
 In this document, we will explain the most three popular features of the KakaoTalk with sub-tasks.
 {: .fs-9 }
 
-Note: This guide is for Android Users Only.
+**Note**: This guide is for Android Users Only.
 
 ![KakaoTalk Logo](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/kakaotalk-logo-introduction.png?raw=true "Let's KakaoTalk!")
 
