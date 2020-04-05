@@ -7,15 +7,17 @@ permalink: /
 ---
 
 # Introduction
-The purpose of this document is to provide useful tips to users getting started with the KakaoTalk.
-
+The goal of this document is to provide useful tips to users getting started with the KakaoTalk.
 In this document, we will explain the most three popular features of the KakaoTalk with sub-tasks.
 
 **KakaoTalk** is a free mobile instant messaging application for smartphones with free text and free call features, operated by Kakao Corporation.
+[Go to the KakaoTalk official website](https://www.kakaocorp.com/service/KakaoTalk?lang=en){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 **Note**: This guide is for Android Users Only.
+---
 
 {: .no_toc }
+
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -31,7 +33,7 @@ In this document, we will explain the most three popular features of the KakaoTa
 {: .fs-6 .fw-300 }
 
 [What is the KakaoTalk?](#What-is-the-KakaoTalk){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Go to the KakaoTalk official website](https://www.kakaocorp.com/service/KakaoTalk?lang=en){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 
 ---
 
