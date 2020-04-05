@@ -7,10 +7,8 @@ permalink: /
 ---
 
 # Introduction
----
 The purpose of this document is to provide useful tips to users getting started with the KakaoTalk.
 In this document, we will explain the most three popular features of the KakaoTalk with sub-tasks.
-{: .fs-9 }
 
 **Note**: This guide is for Android Users Only.
 
