@@ -37,6 +37,11 @@ Step2: Click "Kakao Talk Calendar".
 
 ![Calendar Image1-2](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar1/calendar1-2.jpg?raw=true "CALENDAR IMAGE 1-2")
 
+Step3: Click the date you want to create the event and select "+" button.
+
+![Calendar Image1-3](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar1/calendar1-3.jpg?raw=true "CALENDAR IMAGE 1-3")
+![Calendar Image1-4](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar1/calendar1-4.jpg?raw=true "CALENDAR IMAGE 1-4")
+
 ## How do I invite my friends to an event in the calendar?
 
 ```yaml
