@@ -90,18 +90,24 @@ If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll loc
 
 ---
 
-# About the project
+# Main Features
 
 Just the Docs is &copy; 2017-2019 by [Patrick Marsceill](http://patrickmarsceill.com).
 
-## License
+## Profile
 
+Profile
 Just the Docs is distributed by an [MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
 
-## Contributing
+## Voice Call / Video Call
 
+Voice Call / Video Call
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
+
+## Calendar
+
+Calendar
 
 ### Thank you to the contributors of Just the Docs!
 
