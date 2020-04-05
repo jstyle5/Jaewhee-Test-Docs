@@ -18,6 +18,7 @@ In this document, we will explain the most three popular features of the KakaoTa
 
 **Note**: This guide is for Android Users Only.
 
+
 {: .no_toc }
 
 ## Table of contents
@@ -27,8 +28,6 @@ In this document, we will explain the most three popular features of the KakaoTa
 {:toc}
 
 ---
-
-{: .fs-6 .fw-300 }
 
 [What is the KakaoTalk?](#What-is-the-KakaoTalk){: .btn .btn-primary .fs-4 .mb-4 .mb-md-0 .mr-2 }
 
