@@ -12,6 +12,17 @@ In this document, we will explain the most three popular features of the KakaoTa
 
 **Note**: This guide is for Android Users Only.
 
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+
 ![KakaoTalk Logo](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/kakaotalk-logo-introduction.png?raw=true "Let's KakaoTalk!")
 
 {: .fs-6 .fw-300 }
