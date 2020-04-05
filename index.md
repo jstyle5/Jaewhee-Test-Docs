@@ -44,13 +44,16 @@ The "KakaoTalk" is a free instant-messaging application for smartphones, allowin
 ### Profile
 
 Profile
-[MIT license](https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt).
+![Intro Profile](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/intro-profile.png?raw=true "PROFILE")
 
 ### Voice Call / Video Call
 
 Voice Call / Video Call
-[our GitHub repo](https://github.com/pmarsceill/just-the-docs#contributing).
+![Intro Freecall](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/intro-freecall.png?raw=true "VOICE CALL / VIDEO CALL")
 
 ### Calendar
 
 Calendar
+![Intro Calendar](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/intro-calendar.png?raw=true "CALENDAR")
+
+
