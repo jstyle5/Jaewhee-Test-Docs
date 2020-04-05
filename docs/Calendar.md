@@ -19,23 +19,16 @@ DRAFT Calendar
 
 ---
 
-- What is the KakaoTalk calendar?
-- Manage all your important events with a kakaotalk account: easy to edit, no need to separate account, reminders
-- How do I invite my friends to an event in the calendar?
-- Create an event and select “Invites” -> select a friend or a chatroom
-- Select Calendar from your chatroom + menu -> invite all participants in the chatroom to the event
-- Choose a chatroom -> all participants will be invited at once
-- Select Calendar from the + menu -> create a new event -> participants in the chatroom will be automatically invited.
-- How do I edit or delete an event in the calendar?
-- Select an event you want to edit -> tap the three-dots icon on the top-right corner -> select “Edit”
-- Select an event you want to delete -> tap the three-dots icon on the top-right corner -> select “Delete”
-- If the event is edited or deleted, the responses of all invited members will  be reset and they will get notifications for the cancellation of the event automatically.
+KakaoTalk Calendar is makes you manage all your events in easy and efficient way.
+You can create events and invite your friends on KakaoTalk, or view important days such as national holidays and friends' birthdays all at once.
+With a few taps and clicks, you can chat and discuss upcoming events when it is needed.
+No need to worry about missing important events since reminders will be sent about your upcoming events autometically.
 
 
 
 View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
 
-## What is the KakaoTalk calendar?
+## Where can I find KakaoTalk calendar?
 
 ```yaml
 # Set a path/url to a logo that will be displayed instead of the title
