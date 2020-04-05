@@ -31,6 +31,7 @@ View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/
 ## How can I find all events after creating in the KakaoTalk calendar?
 
 ```yaml
+![Calendar Image1_1](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar1_1.jpg?raw=true "CALENDAR_IMAGE_1_1")
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/just-the-docs.png"
 ```
@@ -64,31 +65,4 @@ aux_links:
 #
 # Supports true (default) or false/nil
 heading_anchors: true
-```
-
-## Footer content
-
-```yaml
-# Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2017-2019 Patrick Marsceill. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
-```
-
-## Color scheme
-
-```yaml
-# Color scheme currently only supports "dark" or nil (default)
-color_scheme: "dark"
-```
-<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
-
-<script type="text/javascript" src="{{ "/assets/js/dark-mode-preview.js" | absolute_url }}"></script>
-
-See [Customization]({{ site.baseurl }}{% link docs/customization.md %}) for more information.
-
-## Google Analytics
-
-```yaml
-# Google Analytics Tracking (optional)
-# e.g, UA-1234567-89
-ga_tracking: UA-5555555-55
 ```
