@@ -19,7 +19,7 @@ DRAFT Calendar
 
 ---
 
-KakaoTalk Calendar is makes you manage all your events in easy and efficient way.
+KakaoTalk Calendar makes you manage all your events in easy and efficient way.
 You can create events and invite your friends on KakaoTalk, or view important days such as national holidays and friends' birthdays all at once.
 With a few taps and clicks, you can chat and discuss upcoming events when it is needed.
 No need to worry about missing important events since reminders will be sent about your upcoming events autometically.
@@ -28,7 +28,7 @@ No need to worry about missing important events since reminders will be sent abo
 
 View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
 
-## Where can I find KakaoTalk calendar?
+## How can I find all events after creating in the KakaoTalk calendar?
 
 ```yaml
 # Set a path/url to a logo that will be displayed instead of the title
