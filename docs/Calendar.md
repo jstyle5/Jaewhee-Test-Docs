@@ -35,14 +35,14 @@ DRAFT Calendar
 
 View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
 
-## Site logo
+## What is the KakaoTalk calendar?
 
 ```yaml
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/just-the-docs.png"
 ```
 
-## Search
+## How do I invite my friends to an event in the calendar?
 
 ```yaml
 # Enable or disable the site search
@@ -54,7 +54,7 @@ search_tokenizer_separator: /[\s/]+/
 
 ```
 
-## Aux links
+## How do I edit or delete an event in the calendar?
 
 ```yaml
 # Aux links for the upper right navigation
@@ -63,7 +63,7 @@ aux_links:
     - "//github.com/pmarsceill/just-the-docs"
 ```
 
-## Heading anchor links
+## I am invited by unknown user. What should I do?
 
 ```yaml
 # Heading anchor links appear on hover over h1-h6 tags in page content
