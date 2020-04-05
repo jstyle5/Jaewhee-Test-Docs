@@ -6,9 +6,8 @@ nav_order: 2
 
 # Profile
 {: .no_toc }
-
-
 DRAFT Profile
+![Intro Profile](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/intro-profile.png?raw=true "PROFILE")
 {: .fs-6 .fw-300 }
 
 ## Table of contents
