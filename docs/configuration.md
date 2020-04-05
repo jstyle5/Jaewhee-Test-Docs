@@ -18,16 +18,18 @@ DRAFT Profile
 
 ---
 
-## How to change status message
-1. Go to More
-2. My Profile to change status message
+## How to change status message and nickname
+1. When you open the KakaoTalk, you will see the screen like below.
+2. Tap your profile photo.
+3. Tap 'Edit Profile' at the bottom of current screen.
+Note: The maximum letters of your status message and nickname are 60 and 20 respectively.
 
 ## How to change cover photo on profile
-1. From Profile, tap Edit Profile and select the camera icon on the bottom-right corner of the cover photo
+1. From Profile, tap 'Edit Profile' and select the camera icon on the bottom-right corner of the cover photo
 2. You can choose an image from your device album or set it as a default image.
 
-## How to remove updates from Feed
-1. Tap the three-dotted icon and delete each update
-2. If you want to set it as private, select Only Me and nobody else will be able to see that update
-
-
+## How to change setting from profile
+1. In this screen, you can see your account information. (Phone number, Email, KakaoTalk ID, etc.)
+2. Tap 'Display Updates on Home' to enable or disable to view the history of your profile updates on Home.
+3. Tap 'Allow Birthday Notification' to enable or disable to be notified of your birthday from their friends list.
+4. Tap 'Auto-play on Wi-Fi only' to enable or disable to avoid extra data charges when Auto-play function is working.
