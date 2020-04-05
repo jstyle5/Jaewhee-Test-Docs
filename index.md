@@ -17,7 +17,7 @@ In this document, we will explain the most three popular features of the KakaoTa
 
 [Go to the KakaoTalk official website](https://www.kakaocorp.com/service/KakaoTalk?lang=en){: .btn .fs-3 .mb-4 .mb-md-0 }
 
-**Note**: This guide is for Android Users Only.
+**Note**: This guide is for the KakaoTalk mobile version only(Android and iOS).
 
 
 
