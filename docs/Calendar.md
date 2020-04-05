@@ -29,12 +29,8 @@ No need to worry about missing important events since reminders will be sent abo
 View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
 
 ## How can I find all events after creating in the KakaoTalk calendar?
-
-```yaml
+{: .no_toc }
 ![Calendar Image1_1](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar1_1.jpg?raw=true "CALENDAR_IMAGE_1_1")
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/just-the-docs.png"
-```
 
 ## How do I invite my friends to an event in the calendar?
 
