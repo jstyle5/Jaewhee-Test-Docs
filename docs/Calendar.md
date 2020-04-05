@@ -6,7 +6,7 @@ nav_order: 4
 
 # Calendar
 {: .no_toc }
-
+![Intro Calendar](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/intro-calendar.png?raw=true "CALENDAR")
 
 DRAFT Calendar
 {: .fs-6 .fw-300 }
