@@ -8,6 +8,8 @@ nav_order: 3
 {: .no_toc }
 Free call is a feature allowing you to make a Voice / Video call for free with your KakaoTalk friends.
 All calls on KakaoTalk are free when made using Wi-Fi.
+
+![Intro Freecall](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/intro-freecall.png?raw=true "VOICE CALL / VIDEO CALL")
 {: .fs-6 .fw-300 }
 
 ## Table of contents
