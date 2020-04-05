@@ -28,9 +28,10 @@ No need to worry about missing important events since reminders will be sent abo
 
 View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
 
-## How can I find all events after creating in the KakaoTalk calendar?
-{: .no_toc }
-![Calendar Image1_1](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar1_1.jpg?raw=true "CALENDAR_IMAGE_1_1")
+## How can create events in the KakaoTalk calendar?
+Step1: Open any chat and select menu in the top right-hand corner. 
+
+![Calendar Image1_1](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar1/calendar1-1.jpg?raw=true "CALENDAR_IMAGE_1_1")
 
 ## How do I invite my friends to an event in the calendar?
 
