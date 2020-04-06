@@ -1,68 +1,57 @@
-<p align="right">
-    <a href="https://badge.fury.io/rb/just-the-docs"><img src="https://badge.fury.io/rb/just-the-docs.svg" alt="Gem version"></a> <a href="https://github.com/pmarsceill/just-the-docs/actions"><img src="https://github.com/pmarsceill/just-the-docs/workflows/CI/badge.svg" alt="Build status"></a>
-</p>
-<br><br>
-<p align="center">
-    <h1 align="center">Just the Docs</h1>
-    <p align="center">A modern, highly customizable, and responsive Jekyll theme for documentation with built-in search.<br>Easily hosted on GitHub Pages with few dependencies.</p>
-    <p align="center"><strong><a href="https://pmarsceill.github.io/just-the-docs/">See it in action!</a></strong></p>
-    <br><br><br>
-</p>
+### Overview of KakaoTalk English Version Guide
 
-![jtd](https://user-images.githubusercontent.com/896475/47384541-89053c80-d6d5-11e8-98dc-dba16e192de9.gif)
+Welcome to the KakaoTalk English Version Guide. We will introduce the three most popular features of the KakaoTalk here (Profile, Voice / Video Call, and Calendar).
+<br />
+This fabulous chat application will connect you to the wider world and make people all around the world much closer!
+<br />
+The things we want to introduce you are:
 
-## Installation
+---
 
-Add this line to your Jekyll site's Gemfile:
+#### Profile
+- How to change nickname and status messages
+- How to change cover photo on Profile
+- How to change settings from Profile
 
-```ruby
-gem "just-the-docs"
-```
+---
 
-And add this line to your Jekyll site's `_config.yml`:
+#### Voice / Video Call
+- How to start a Free call with a friend
+- How to use a voice filter
+- How to apply filters during a Video call
+- How to change which person is displayed in the larger/smaller window during a Video call
 
-```yaml
-theme: just-the-docs
-```
+---
 
-And then execute:
+#### Calendar
+- How to create events in the KakaoTalk Calendar
+- How to invite friends to an event in the Calendar
+- How to edit or delete an event in the Calendar
 
-    $ bundle
+---
 
-Or install it yourself as:
+### How We Created Our Guide
+At first, we chose our main topic, **KakaoTalk**, which is the most popular chat application in South Korea. We've been using this application since it was first released in the world. We use this application every day.
 
-    $ gem install just-the-docs
+---
 
-## Usage
+#### Using MarkDown
+We are asked to use MarkDown in writing this document. Since we were all unfamiliar with it, we had to spend time learning how to use this amazing interface. MarkDown provides useful examples. Writing a document with this was such a great opportunity as future programmers. Thanks to Sam's video tutorials, we were able to fork the master repository of Just the Docs. By editing YAML files, we could lay out the basic shape of our document, and we began writing this guide.
 
-[View the documentation](https://pmarsceill.github.io/just-the-docs/) for usage information.
+---
 
-## Contributing
+#### Using Visual Studio Code & GitHub Desktop
+Since Term 1 in CST, we are already familiar with using VSC and GitHub. After learning the basic concept of MarkDown and Just-The-Docs, applying them with our knowledge was not that difficult. Rather, it was a good opportunity to write a document with IDE.
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/pmarsceill/just-the-docs. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+---
 
-### Submitting code changes:
+### Conclusion
+Generally, writing a document was such an excellent opportunity for us. Although we were a bit behind of our schedules, we would say that we learned a lot while writing this guide. We've never written documents through GitHub, and it was our first time to hear MarkDown and Just-The-Docs. However, we are excited to write documents using MarkDown and Just-The-Docs in the future!
 
-- Open a [Pull Request](https://github.com/pmarsceill/just-the-docs/pulls)
-- Ensure all CI tests pass
-- Await code review
-- Bump the version number in `just-the-docs.gemspec` and `package.json` according to [semantic versioning](https://semver.org/).
+---
 
-### Design and development principles of this theme:
+### Authors
+Jaewhee Seo (Bcit CST Term2 Set F)
+<br />
+Erica Jeong (Bcit CST Term2 Set F)
 
-1. As few dependencies as possible
-2. No build script needed
-3. First class mobile experience
-4. Make the content shine
-
-## Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-Your theme is set up just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-When the theme is released, only the files in `_layouts`, `_includes`, and `_sass` tracked with Git will be released.
-
-## License
-
-The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).

@@ -41,7 +41,7 @@ Note: The maximum letters of your status message and nickname are 60 and 20 resp
 
 ---
 
-## How to change cover photo on profile
+## How to change cover photo on Profile
 Step1: Tap 'Edit Profile' in the red box.
 <br />
 ![Profile2](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/profile/profile-2.png?raw=true "PROFILE2")
@@ -60,7 +60,7 @@ Step3: You can choose an image from your device album or set it as a default ima
 
 ---
 
-## How to change setting from profile
+## How to change settings from Profile
 Step1: Tap a setting icon on the upper-right corner of your profile photo.
 <br />
 ![Profile5](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/profile/profile-5.png?raw=true "PROFILE5")
