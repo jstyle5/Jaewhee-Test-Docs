@@ -17,7 +17,7 @@ nav_order: 5
 ---
 
 ## Allowance
-Telecom companies allow their users to use data with monthly limitation depending on their data plan(Limitation to use 3G/LTE). Once the users use up their allowance, the data traffic is blocked.
+Telecom companies allow their users to use data with monthly limitations depending on their data plan(Limitation to use 3G/LTE). Once the users use up their allowance, the data traffic is blocked.
 
 <br />
 
@@ -27,12 +27,12 @@ Android is a mobile operating system designed with mobile in mind based on the L
 <br />
 
 ## Calendar
-All important events are able to be managed: easy to edit, no need to separate account, reminders, etc.
+All important events can be managed: easy to edit, no need to separate accounts, reminders, etc.
 
 <br />
 
 ## Chats
-Allow to chat with friends in KakaoTalk friends list.
+Allow to chat with friends on KakaoTalk friends list.
 
 <br />
 
@@ -47,11 +47,12 @@ During Voice / Video call, users can change their displayed screen and voice wit
 <br />
 
 ## Firewall
-Network security device that monitors whether to allow or block network traffic based on security rules.
+A network security device that monitors whether to allow or block network traffic based on security rules.
 
 <br />
 
-## MVoIP
+## mVoIP
 Mobile Voice over IP(mVoIP) is an extension of mobility to a Voice over IP network. It allows mobile phones to receive VoIP calls.
 
 <br />
+

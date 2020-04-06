@@ -8,7 +8,7 @@ nav_order: 3
 {: .no_toc }
 Do you want to make a call to your friends? How about 'Free Calls'? You can enjoy 'Free Calls' through this KakaoTalk! This amazing feature allows you to make a Voice and Video call for free with your KakaoTalk friends!
 <br />
-If you are able to use Wi-Fi, every call made by KakaoTalk is all **FREE**.
+If you can use Wi-Fi, every call made by KakaoTalk is all **FREE**.
 
 ![Intro Freecall](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/intro-freecall.png?raw=true "VOICE CALL / VIDEO CALL")
 {: .fs-6 .fw-300 }
@@ -24,7 +24,7 @@ If you are able to use Wi-Fi, every call made by KakaoTalk is all **FREE**.
 {:toc}
 
 ## How to start a Free call with a friend
-### To pull up your friend’s KakaoTalk profile
+### To pull up your friend's KakaoTalk profile
 
 Step1: Locate the person whom you want to call on your Friends list. Tap the person's Profile.
 <br />
@@ -66,7 +66,7 @@ Step3: Tap Voice Call' or 'Video Call' to start the Free Call.
 
 ## How to use a voice filter
 
-Step1: Once your call is connected, you will see the ‘Voice Filters’ on the screen. Tap ‘Voice Filters’.
+Step1: Once your call is connected, you will see the 'Voice Filters' on the screen. Tap 'Voice Filters.'
 <br />
 ![Call7](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calls/call-7.png?raw=true "CALL7")
 
@@ -106,7 +106,7 @@ Step4: Choose various video filters on the bottom of your screen.
 
 ---
 
-Step5: Once you choose filters, it will be applied on your screen acutomatically.
+Step5: Once you choose filters, it will be applied on your screen automatically.
 <br />
 
 
@@ -118,10 +118,11 @@ Step1: Double tap the small screen (Usually, it locates on your upper-left side)
 
 ---
 
-Step2: You’ll be able to switch which user is displayed in the larger screen and vice versa.
+Step2: You'll be able to switch which user is displayed on the larger screen and vice versa.
 <br />
 ![Call14](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calls/call-14.png?raw=true "CALL14")
 
 ---
 
-**Note:** Generally, a small screen locates on your upper-left side. You can simply move the small screen by dragging and dropping on your screen.
+**Note:** Generally, a small screen locates on your upper-left side. You can move the small screen by dragging and dropping on your screen.
+
