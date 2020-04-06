@@ -50,6 +50,7 @@ Do not unregister if you want to file a report. File a report Cyber Terror Respo
 ### You might be invited by an unknown user:
 From the event in Calendar, tap the menu on the top right-hand conner and select "Report". Once you report an event, any invitations will not be received from the user anymore.
 <br />
+<br />
 
 
 ### Your friends are not be able to see the events added to your Calendar:
