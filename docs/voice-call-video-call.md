@@ -7,23 +7,21 @@ nav_order: 3
 # Voice Call / Video Call
 {: .no_toc }
 Free call is a feature allowing you to make a Voice / Video call for free with your KakaoTalk friends.
-All calls on KakaoTalk are free when made using Wi-Fi.
+All calls on KakaoTalk are free when made using Wi-Fi. Group call is a mVoIP-based feature that enables you to talk with your friends in a group of 3 to 5 people in a chatroom.
 
 ![Intro Freecall](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/intro-freecall.png?raw=true "VOICE CALL / VIDEO CALL")
 {: .fs-6 .fw-300 }
+
+##Note:## This feature is available for KakaoTalk version 6.1.5 or above on Android.
+---
+##Note:## If you need to use data to make the call, certain charges may apply according to your data plan/mobile carrier.
+---
 
 ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
-
-Group call is a mVoIP-based feature that enables you to talk with your friends in a group of 3 to 5 people in a chatroom.
-
-##Note:## This feature is available for KakaoTalk version 6.1.5 or above on Android.
----
-##Note:## If you need to use data to make the call, certain charges may apply according to your data plan/mobile carrier.
----
 
 ## How to start a Free call with a friend
 ### To pull up your friend’s KakaoTalk profile
