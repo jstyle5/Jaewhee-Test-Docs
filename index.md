@@ -27,7 +27,7 @@ In this document, we will introduce the most three popular features of the Kakao
 ---
 
 ## What is the KakaoTalk?
-**KakaoTalk** is a free instant-messaging application for smartphones, allowing them to send and receive free texts as well as photos, videos, voice messages, location, contact information, and URL links. Both 1:1 or group chats are available over WiFi, 3G or LTE. To avoid spam, the users must have a mobile number to install the application, not virtual numbers or internet phone numbers, etc. 
+**KakaoTalk** is a free instant-messaging application for smartphones. It is developed by a Korean IT company, Kakao Corp in 2010. This amazing application allows to send and receive free texts to users. Users can send photos, videos, voice messages, location, contact information, and URL links to others. KakaoTalk also supports both 1:1 and group chats over WiFi, 3G or LTE.
 
 ---
 
