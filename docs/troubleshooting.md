@@ -34,7 +34,7 @@ Do not unregister if you want to file a report. File a report Cyber Terror Respo
 
 ## Voice Call / Video Call issues
 ### Group call may not be available in the following situation:
-1. If KakaoTalk version that does not support group call is used(v5.1.0 or above is required).
+1. If the KakaoTalk version that does not support group call is used(v5.1.0 or above is required).
 2. The quality of the Group call connection may be low if network status or your or your friend's device is in poor condition.
 <br />
 <br />
@@ -48,20 +48,20 @@ Do not unregister if you want to file a report. File a report Cyber Terror Respo
 
 ## Calendar issues
 ### You might be invited by an unknown user:
-From the event in Calendar, tap the menu on the top right-hand conner and select "Report". Once you report an event, any invitations will not be received from the user anymore.
+From the event in Calendar, tap the menu on the top right-hand corner and select "Report." Once you report an event, any invitations will not be received from the user anymore.
 <br />
 <br />
 
 
-### Your friends are not be able to see the events added to your Calendar:
+### Your friends are not able to see the events added to your Calendar:
 All events in KakaoTalk Calendar will only be available individually.
-Events that you are invited to are autometically added to your Calendar as an individual event.
+Events that you are invited to are automatically added to your Calendar as an individual event.
 <br />
 
 ---
 
 ## Other issues
 ### I cannot make a free call in a Secret Chatroom:
-Secret Chat offers higher level privacy and security of user information. 1:1 and group chatrooms are available, but features including free calling, events, and album are not available in a secret chatroom.
+Secret Chat offers higher-level privacy and security of user information. 1:1 and group chatrooms are available, but features including free calling, events, and albums are not available in a secret chatroom.
 <br />
 
