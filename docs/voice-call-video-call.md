@@ -12,7 +12,8 @@ All calls on KakaoTalk are free when made using Wi-Fi. Group call is a mVoIP-bas
 ![Intro Freecall](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/intro-freecall.png?raw=true "VOICE CALL / VIDEO CALL")
 {: .fs-6 .fw-300 }
 
-**Note:** This feature is available for KakaoTalk version 6.1.5 or above on Android.
+**Note:** This feature is available for KakaoTalk version 6.1.5 or above.
+
 **Note:** If you need to use data to make the call, certain charges may apply according to your data plan/mobile carrier.
 
 ## Table of contents
