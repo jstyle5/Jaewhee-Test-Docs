@@ -24,22 +24,29 @@ All calls on KakaoTalk are free when made using Wi-Fi. Group call is a mVoIP-bas
 
 ## How to start a Free call with a friend
 ### To pull up your friend’s KakaoTalk profile
-1. Locate the person on your Friends list and tap to open their profile.
-2. At the bottom of the profile, tap the Free Call button.
-3. Tap Voice or Video Call in order to start the call.
+Step1: Locate the person whom you want to call on your Friends list.
+Step2: Tap the person's Profile.
+Step3: Tap 'Call' in the red box.
+Step4: Tap Voice Call' or 'Video Call' to start the Free Call.
 
 ### From inside a chatroom
-1. In a 1:1 chatroom, tap the + menu.
-2. Tap the Voice or Video Call button to start a call.
+Step1: Tap your friend's Profile in a 1:1 chatroom.
+Step2: Tap 'Call' in the red box.
+Step3: Tap Voice Call' or 'Video Call' to start the Free Call.
 
 ## How to use a voice filter
-1. Once your call is connected, you will see the ‘Voice Filters’ button on the screen.
-2. You can then select an option to speak to your friend in either Tom or Ben’s voice.
+Step1: Once your call is connected, you will see the ‘Voice Filters’ on the screen.
+Step2: You can choose Tom or Ben's voice when you talk to your friend during Free calls.
+**Note:** You can't use a voice filter before your call is connected.
 
 ## How to apply filters during a Video call
-1. Tap the ‘Video Filters’ button in the menu after connecting to a video call.
-2. Tap your favorite filters and it will appear on your friend’s screen.
+Step1: Tap the Emoticon shape in the red box.
+Step2: Choose cute animal face filters on the bottom of your screen.
+Step3: Tap the Tri-circle shape in the red box.
+Step4: Choose various video filters on the bottom of your screen.
+Step5: Once you choose filters, it will be applied on your screen acutomatically.
 
 ## How to change which person is displayed in the larger/smaller window during a Video call
-1. Double tap the small screen.
-2. You’ll be able to switch which user is displayed in the larger screen and vice versa.
+Step1: Double tap the small screen (Usually, it locates on your upper-left side).
+Step2: You’ll be able to switch which user is displayed in the larger screen and vice versa.
+**Note:** Generally, a small screen locates on your upper-left side. You can simply move the small screen by dragging and dropping on your screen.
