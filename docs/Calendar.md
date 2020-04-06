@@ -45,7 +45,7 @@ Step3: Click the date you want to create the event and select "+" button in the 
 ![Calendar Image1-4](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar1/calendar1-4.jpg?raw=true "CALENDAR IMAGE 1-4")
 
 
-Step4: Select the time for your event by clicking the date and press "ok".
+Step4: Select the time of your event and press "ok".
 ![Calendar Image1-5](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar1/calendar1-5.jpg?raw=true "CALENDAR IMAGE 1-5")
 ![Calendar Image1-6](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar1/calendar1-6.jpg?raw=true "CALENDAR IMAGE 1-6")
 
@@ -56,6 +56,9 @@ Step5: Press "Add Reminder" to receive reminder before the event date.
 
 Step6: After setup the time and reminder of the event, click "SAVE" at the top right corner.
 ![Calendar Image1-8](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar1/calendar1-8.jpg?raw=true "CALENDAR IMAGE 1-8")
+
+Step7: The event has been created in your calendar.
+![Calendar Image1-9](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar1/calendar1-9.jpg?raw=true "CALENDAR IMAGE 1-9")
 
 ## How do I invite my friends to an event in the calendar?
 
