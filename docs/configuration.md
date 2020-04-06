@@ -21,12 +21,11 @@ You can change many parts of your profile with a few taps. We will show you how 
 ---
 
 ## How to change nickname and status messages
-Step1: When you open the KakaoTalk, you will see the screen like below.
-Tap your profile photo.
+Step1: When you open the KakaoTalk, you will see the screen like below. Tap your profile photo.
 
 ![Profile1](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/profile/profile-1.png?raw=true "PROFILE1")
 
-
+---
 
 Step2: Tap 'Edit Profile' in the red box.
 
