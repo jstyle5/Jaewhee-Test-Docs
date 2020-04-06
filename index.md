@@ -9,7 +9,8 @@ permalink: /
 # Introduction
 {: .no_toc }
 The goal of this document is to provide useful tips to users getting started with the KakaoTalk.
-In this document, we will explain the most three popular features of the KakaoTalk with sub-tasks.
+In this document, we will introduce the most three popular features of the KakaoTalk with sub-tasks.
+(Profile, Voice / Video Call, and Calendar)
 
 **KakaoTalk** is a free mobile instant messaging application for smartphones with free text and free call features, operated by Kakao Corporation.
 
@@ -43,17 +44,14 @@ The "KakaoTalk" is a free instant-messaging application for smartphones, allowin
 
 ### Profile
 
-Profile
 ![Intro Profile](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/intro-profile.png?raw=true "PROFILE")
 
 ### Voice Call / Video Call
 
-Voice Call / Video Call
 ![Intro Freecall](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/intro-freecall.png?raw=true "VOICE CALL / VIDEO CALL")
 
 ### Calendar
 
-Calendar
 ![Intro Calendar](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/intro-calendar.png?raw=true "CALENDAR")
 
 
