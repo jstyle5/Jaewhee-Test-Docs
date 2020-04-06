@@ -7,19 +7,51 @@ nav_order: 5
 # Glossary
 {: .no_toc }
 
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
 ---
 
-- Android: Android is a mobile operating system based on a modified version of the Linux kernel and other open source software, designed primarily for touchscreen mobile devices.
+## Allowance
+Telecom companies allow their users to use data with monthly limitation depending on their data plan(Limitation to use 3G/LTE). Once the users use up their allowance, the data traffic is blocked.
 
-- Allowance: Limitation to use 3G/LTE. Telecom companies allow their users to use data with a limitation every month depending on their data plan. Once the users use up their allowance, VolP traffic is blocked.
+<br />
 
-- Calendar: Manage all your important events with a kakaotalk account: easy to edit, no need to separate account, reminders
-Chats - allow to chat with your KakaoTalk contacts.
+## Android
+Android is a mobile operating system designed with mobile in mind based on the Linux kernel. Everything we see on the display of our device is a part of the operating system. It is designed for touchscreen mobile devices.
 
-- Filter: During Voice / Video call, users can change their voice or displayed screen by applying filters offered by KakaoTalk.
+<br />
 
-- Firewall: Network security device that monitors whether to allow or block specific traffic.
+## Calendar
+All important events are able to be managed: easy to edit, no need to separate account, reminders, etc.
 
-- Friends: A list of contacts in Kakaotalk; add friends to the list; search within your list of friends.Page URL
+<br />
 
-- mVoIP: Extension of mobility to a Voice over IP network.
+## Chats
+Allow to chat with friends in KakaoTalk friends list.
+
+<br />
+
+## Friends
+A list of contacts in Kakaotalk. Users can manage current friends, search and add new friends to the list.
+
+<br />
+
+## Filter
+During Voice / Video call, users can change their displayed screen and voice with offered filters in KakaoTalk.
+
+<br />
+
+## Firewall
+Network security device that monitors whether to allow or block network traffic based on security rules.
+
+<br />
+
+## MVoIP
+Mobile Voice over IP(mVoIP) is an extension of mobility to a Voice over IP network. It allows mobile phones to receive VoIP calls.
+
+<br />
