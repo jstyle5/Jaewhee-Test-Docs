@@ -33,14 +33,29 @@ Step1: Open any chat and select menu in the top right-hand corner.
 
 ![Calendar Image1-1](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar1/calendar1-1.jpg?raw=true "CALENDAR IMAGE 1-1")
 
+
 Step2: Click "Kakao Talk Calendar".
 
 ![Calendar Image1-2](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar1/calendar1-2.jpg?raw=true "CALENDAR IMAGE 1-2")
 
-Step3: Click the date you want to create the event and select "+" button.
+
+Step3: Click the date you want to create the event and select "+" button in the bottom right corner.
 
 ![Calendar Image1-3](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar1/calendar1-3.jpg?raw=true "CALENDAR IMAGE 1-3")
 ![Calendar Image1-4](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar1/calendar1-4.jpg?raw=true "CALENDAR IMAGE 1-4")
+
+
+Step4: Select the time for your event by clicking the date and press "ok".
+![Calendar Image1-5](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar1/calendar1-5.jpg?raw=true "CALENDAR IMAGE 1-5")
+![Calendar Image1-6](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar1/calendar1-6.jpg?raw=true "CALENDAR IMAGE 1-6")
+
+
+Step5: Press "Add Reminder" to receive reminder before the event date.
+![Calendar Image1-6-extra](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar1/calendar1-6-extra.jpg?raw=true "CALENDAR IMAGE 1-6-extra")
+![Calendar Image1-7](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar1/calendar1-7.jpg?raw=true "CALENDAR IMAGE 1-7")
+
+Step6: After setup the time and reminder of the event, click "SAVE" at the top right corner.
+![Calendar Image1-8](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar1/calendar1-8.jpg?raw=true "CALENDAR IMAGE 1-8")
 
 ## How do I invite my friends to an event in the calendar?
 
