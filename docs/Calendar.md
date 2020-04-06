@@ -62,31 +62,36 @@ Step7: The event has been created in your calendar.
 
 ## How do I invite my friends to an event in the calendar?
 
-```yaml
-# Enable or disable the site search
-# Supports true (default) or false
-search_enabled: true
+Step1: Select an event that you want to invite your friends in your calendar. 
 
-# Enable support for hyphenated search words:
-search_tokenizer_separator: /[\s/]+/
+![Calendar Image1-9-extra](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar2/calendar1-9-extra.jpg?raw=true "CALENDAR IMAGE 1-9-extra")
 
-```
+Step2: Click "Invite" and select who you want to invite in the friends list.
+
+![Calendar Image2-1](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar2/calendar2-1.jpg?raw=true "CALENDAR IMAGE 2-1")
+![Calendar Image2-2](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar2/calendar2-2.jpg?raw=true "CALENDAR IMAGE 2-2")
+![Calendar Image2-3](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar2/calendar2-3.jpg?raw=true "CALENDAR IMAGE 2-3")
+
+Step3: Selected friends have been added.
+
+![Calendar Image2-4](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar2/calendar2-4.jpg?raw=true "CALENDAR IMAGE 2-4")
+
+Step4: Select "Invite" again and click "Remove" button if you want to remove a friend in this event.
+
+![Calendar Image2-5](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar2/calendar2-5.jpg?raw=true "CALENDAR IMAGE 2-5")
+![Calendar Image2-6](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar2/calendar2-6.jpg?raw=true "CALENDAR IMAGE 2-6")
+![Calendar Image2-7](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar2/calendar2-7.jpg?raw=true "CALENDAR IMAGE 2-7")
+
+Step5: After adding friends in the event, press "SAVE" in the top right-hand corner.
+
+![Calendar Image2-8](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar2/calendar2-8.jpg?raw=true "CALENDAR IMAGE 2-8")
+
+Step6: By clicking the event in the calendar, you can see the Invited friends in the event.
+
+![Calendar Image2-9](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar2/calendar2-9.jpg?raw=true "CALENDAR IMAGE 2-9")
+![Calendar Image2-10](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar2/calendar2-10.jpg?raw=true "CALENDAR IMAGE 2-10")
 
 ## How do I edit or delete an event in the calendar?
 
-```yaml
-# Aux links for the upper right navigation
-aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
-```
 
-## I am invited by unknown user. What should I do?
 
-```yaml
-# Heading anchor links appear on hover over h1-h6 tags in page content
-# allowing users to deep link to a particular heading on a page.
-#
-# Supports true (default) or false/nil
-heading_anchors: true
-```
