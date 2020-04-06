@@ -9,7 +9,7 @@ permalink: /
 # Introduction
 {: .no_toc }
 The goal of this document is to provide useful tips to users getting started with the KakaoTalk.
-In this document, we will introduce the most three popular features of the KakaoTalk with sub-tasks
+In this document, we will introduce the most three popular features of the KakaoTalk with sub-tasks to you!
 (Profile, Voice / Video Call, and Calendar).
 
 ![KakaoTalk Logo](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/kakaotalk-logo-introduction.png?raw=true "Let's KakaoTalk!")
