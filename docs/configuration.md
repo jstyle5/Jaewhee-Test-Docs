@@ -55,11 +55,16 @@ Step1: Tap a setting icon on the upper-right corner of your profile photo.
 
 
 Step2: In this screen, you can see your account information.
-Tap 'Display Updates on Home' to enable or disable to view the history of your profile updates on Home.
+![Profile0](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/profile/profile-0.png?raw=true "PROFILE0")
+
+
+Step3: Tap 'Display Updates on Home' to enable or disable to view the history of your profile updates on Home.
 ![Profile7](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/profile/profile-7.png?raw=true "PROFILE7")
 
 
-Step3: Tap 'Allow Birthday Notification' to enable or disable to be notified of your birthday from their friends list.
-
-Step4: Tap 'Auto-play on Wi-Fi only' to enable or disable to avoid extra data charges when Auto-play function is working.
+Step4: Tap 'Allow Birthday Notification' to enable or disable to be notified of your birthday from their friends list.
 ![Profile8](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/profile/profile-8.png?raw=true "PROFILE8")
+
+
+Step5: Tap 'Auto-play on Wi-Fi only' to enable or disable to avoid extra data charges when Auto-play function is working.
+![Profile9](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/profile/profile-9.png?raw=true "PROFILE9")
