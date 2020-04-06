@@ -21,8 +21,9 @@ Do you have any problem with KakaoTalk? Don't panic! There are many basic troubl
 ### I can't remember my Kakao Account:
 1. Open Kakao Talk app > Click "More" > Edit Profile > Kakao Account > Click "Forgot your email or password?" > Find Kakao Account
 2. Go to Kakao's homepage(www.kakao.com/main) > Click Login box on the top right side conner > Find Kakao Account
-### I cannot make a free call in a Secret Chatroom:
-Secret Chat offers greater levels of privacy and security of user information. 1:1 and group chatrooms are available as a secret chatroom, but features including free calling, events, and album are not available in a secret chatroom.
+### Kakao account being compromised:
+You must register again with verifying your phone number and change your KakaoTalk account password immediately.
+Do not unregister if you wish to file a report and contact your local police station or file a report Cyber Terror Response Center. All necessary information will be submitted to the police and fully cooperated with the investigation.
 
 
 
@@ -46,3 +47,11 @@ From the event in Calendar, tap the menu on the top right-hand conner and select
 ### You friends are not be able to see the events added to your Calendar:
 All events in KakaoTalk Calendar will only be available individually.
 Events that you are invited to are autometically added to your Calendar as an individual event.
+
+
+
+## Other issues
+### I cannot make a free call in a Secret Chatroom:
+Secret Chat offers greater levels of privacy and security of user information. 1:1 and group chatrooms are available as a secret chatroom, but features including free calling, events, and album are not available in a secret chatroom.
+
+
