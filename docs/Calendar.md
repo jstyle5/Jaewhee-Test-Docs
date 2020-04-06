@@ -93,5 +93,21 @@ Step6: By clicking the event in the calendar, you can see the Invited friends in
 
 ## How do I edit or delete an event in the calendar?
 
+Step1: Click the menu at the top right corner.
 
+![Calendar Image3-1](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar3/calendar3-1.jpg?raw=true "CALENDAR IMAGE 3-1")
 
+Step2: Click edit and change the part that you would like to modify in the event.
+
+![Calendar Image3-2](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar3/calendar3-2.jpg?raw=true "CALENDAR IMAGE 3-2")
+![Calendar Image3-3](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar3/calendar3-3.jpg?raw=true "CALENDAR IMAGE 3-3")
+
+Step3: To delete an event, press press "Delete" button in Step 1.
+
+![Calendar Image3-4](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar3/calendar3-4.jpg?raw=true "CALENDAR IMAGE 3-4")
+
+Step4: Click "Yes" and the event has been deleted.
+
+![Calendar Image3-5](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar3/calendar3-5.jpg?raw=true "CALENDAR IMAGE 3-5")
+![Calendar Image3-6](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar3/calendar3-6.jpg?raw=true "CALENDAR IMAGE 3-6")
+![Calendar Image3-7](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/calendar3/calendar3-7.jpg?raw=true "CALENDAR IMAGE 3-7")
