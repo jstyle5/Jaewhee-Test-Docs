@@ -8,11 +8,15 @@ nav_order: 99
 
 Do you have any problem with KakaoTalk? Don't panic! There are many basic troubleshooting techniques you can use to fix the issues. You can find simple solutions to try and more information to solve common problems you may encounter.
 
-[Link to another page](another-page).
 
-There should be whitespace between paragraphs.
+## Table of contents
+{: .no_toc .text-delta }
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+1. TOC
+{:toc}
+
+---
+
 
 # [](#header-1)Header 1
 
