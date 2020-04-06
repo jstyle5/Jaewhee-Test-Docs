@@ -21,20 +21,23 @@ Do you have any problem with KakaoTalk? Don't panic! There are many basic troubl
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
+
+
 ## Voice Call / Video Call issues
+### Group call may not be available in the following situation:
+1. If you are using a KakaoTalk version that does not support group call(v5.1.0 or above is required).
+2. Group call connection or quality of the connection may be poor if network status or your or your friend's device is in poor condition.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
-### Calendar issues
+
+## Calendar issues
 
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### [](#header-6)Header 6
+ [](#header-6)Header 6
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
