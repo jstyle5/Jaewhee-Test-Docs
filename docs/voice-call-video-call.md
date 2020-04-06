@@ -23,6 +23,8 @@ If you can use Wi-Fi, every call made by KakaoTalk is all **FREE**.
 1. TOC
 {:toc}
 
+---
+
 ## How to start a Free call with a friend
 ### To pull up your friend's KakaoTalk profile
 
