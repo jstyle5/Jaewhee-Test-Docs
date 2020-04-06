@@ -24,10 +24,25 @@ All calls on KakaoTalk are free when made using Wi-Fi. Group call is a mVoIP-bas
 
 ## How to start a Free call with a friend
 ### To pull up your friend’s KakaoTalk profile
-Step1: Locate the person whom you want to call on your Friends list.
-Step2: Tap the person's Profile.
-Step3: Tap 'Call' in the red box.
-Step4: Tap Voice Call' or 'Video Call' to start the Free Call.
+
+Step1: Locate the person whom you want to call on your Friends list. Tap the person's Profile.
+
+![Profile4](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/profile/profile-4.png?raw=true "PROFILE4")
+
+
+
+Step2: Tap 'Call' in the red box.
+
+![Profile4](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/profile/profile-4.png?raw=true "PROFILE4")
+
+
+
+Step3: Tap Voice Call' or 'Video Call' to start the Free Call.
+
+![Profile4](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/profile/profile-4.png?raw=true "PROFILE4")
+
+
+
 
 ### From inside a chatroom
 Step1: Tap your friend's Profile in a 1:1 chatroom.
@@ -35,7 +50,7 @@ Step2: Tap 'Call' in the red box.
 Step3: Tap Voice Call' or 'Video Call' to start the Free Call.
 
 ## How to use a voice filter
-Step1: Once your call is connected, you will see the ‘Voice Filters’ on the screen.
+Step1: Once your call is connected, you will see the ‘Voice Filters’ on the screen. Tap ‘Voice Filters’.
 Step2: You can choose Tom or Ben's voice when you talk to your friend during Free calls.
 **Note:** You can't use a voice filter before your call is connected.
 
