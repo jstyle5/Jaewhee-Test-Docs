@@ -21,7 +21,6 @@ Do you have any problem with KakaoTalk? Don't panic! There are many basic troubl
 ## Profile / Account issues
 ### I can't remember my Kakao Account:
 1. Open KakaoTalk app > Click "More" > Edit Profile > Kakao Account > Click "Forgot your email or password?" > Find Kakao Account
-<br />
 2. Go to KakaoTalk homepage(www.kakao.com/main) > Click "My Kakao Account" button on the right side > Click "Kakao Account" > Find Account
 <br />
 <br />
@@ -36,14 +35,12 @@ Do not unregister if you want to file a report. File a report Cyber Terror Respo
 ## Voice Call / Video Call issues
 ### Group call may not be available in the following situation:
 1. If KakaoTalk version that does not support group call is used(v5.1.0 or above is required).
-<br />
 2. The quality of the Group call connection may be low if network status or your or your friend's device is in poor condition.
 <br />
 <br />
 
 ### Voice calls and video calls on KakaoTalk may apply charges:
 1. Calls made with 3G/LTE connection may be subject to extra charges from your wireless carrier.
-<br />
 2. Voice calls and video calls are available for KakaoTalk version 6.1.5 or above on Android and iOS.
 <br />
 
