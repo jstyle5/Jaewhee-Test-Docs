@@ -7,7 +7,7 @@ nav_order: 2
 # Profile
 {: .no_toc }
 Express yourself to your friends with fabulous photos! Show your friends what you are thinking or what you are doing!
-You can change many parts of your profile with a few taps. Fully enjoy our convienient interface in Profile menu.
+You can change many parts of your profile with a few taps. We will show you how to fully enjoy this convienient Profile interface in KakaoTalk.
 ![Intro Profile](https://github.com/jstyle5/KakaoTalk-English-Version-Guide/blob/gh-pages/assets/images/intro-profile.png?raw=true "PROFILE")
 {: .fs-6 .fw-300 }
 
