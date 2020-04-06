@@ -17,9 +17,12 @@ Do you have any problem with KakaoTalk? Don't panic! There are many basic troubl
 
 ---
 
-## Profile issues
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Profile / Account issues
+### I can't remember my Kakao Account:
+1. Open Kakao Talk app > Click "More" > Edit Profile > Kakao Account > Click "Forgot your email or password?" > Find Kakao Account
+2. Go to Kakao's homepage(www.kakao.com/main) > Click Login box on the top right side conner > Find Kakao Account
+### I cannot make a free call in a Secret Chatroom:
+Secret Chat offers greater levels of privacy and security of user information. 1:1 and group chatrooms are available as a secret chatroom, but features including free calling, events, and album are not available in a secret chatroom.
 
 
 
@@ -29,19 +32,17 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 2. Group call connection or quality of the connection may be poor if network status or your or your friend's device is in poor condition.
 
 
+### Voice calls and video calls on KakaoTalk may apply charges:
+1. Calls made with 3G/LTE connection may be subject to extra charges from your wireless carrier.
+2. Voice calls and video calls are available for KakaoTalk version 6.1.5 or above on Android and iOS.
+
+
 
 ## Calendar issues
+### You might be invited by an unknown user:
+From the event in Calendar, tap the menu on the top right-hand conner and select "Report". Once you report an event, you will not receive any invitations from the user anymore.
 
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
- [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+### You friends are not be able to see the events added to your Calendar:
+All events in KakaoTalk Calendar will only be available individually.
+Events that you are invited to are autometically added to your Calendar as an individual event.
